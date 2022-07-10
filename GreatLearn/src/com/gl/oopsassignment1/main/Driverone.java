@@ -1,11 +1,9 @@
-package com.assignment1.main;
+package com.gl.oopsassignment1.main;
 
+import com.gl.oopsassignment1.model.AdminDept;
+import com.gl.oopsassignment1.model.HrDept;
+import com.gl.oopsassignment1.model.TechDept;
 
-import com.assignment1.model1.HrDept;
-import com.assignment1.model1.TechDept;
-import com.assignment1.model1.AdminDept;
-import com.assignment1.model1.HrDept;
-import com.assignment1.model1.TechDept;
 public class Driverone {
 	public static void main(String args[]) {
 		AdminDept 	ad = new AdminDept();

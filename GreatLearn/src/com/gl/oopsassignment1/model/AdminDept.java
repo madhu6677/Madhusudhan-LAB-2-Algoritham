@@ -1,4 +1,4 @@
-package com.assignment1.model1;
+package com.gl.oopsassignment1.model;
 
 
 
